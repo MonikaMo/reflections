@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It initiates a new empty repository. We need it so we can store our versions.
