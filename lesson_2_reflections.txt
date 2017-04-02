@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It initiates a new empty repository. We need it so we can store our versions.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The working directory is de dir that contains our project and the repository. The staging area is the middle lane between them, so we can make changes before commiting.
